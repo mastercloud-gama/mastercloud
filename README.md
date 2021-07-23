@@ -1,7 +1,7 @@
 # MasterCloud
 ## _Projeto de Infraestrutura em Nuvem proposto pelo curso Infraestrutura Cloud da Gama Academy e Accenture_
 
-## Problemática
+## Introdução
 Com a pandemia, mais de 300 mil bares, restaurantes e lanchonetes encerraram suas 
 atividades em 2020 no Brasil. Pensando nisso, como meio de contornar as retrições 
 de funcionamento impostas, implantamos um serviço de comandas e pedidos na nuvem 
