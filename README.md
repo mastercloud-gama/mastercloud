@@ -30,7 +30,7 @@ Tecnologias utilizadas no projeto:
 
 ## Infraestrutura
 
-![Infraestrutura](https://raw.githubusercontent.com/mastercloud-gama/mastercloud/main/arquitetura_mastercloud.png)
+![Infraestrutura](https://raw.githubusercontent.com/mastercloud-gama/mastercloud/main/download.jpg)
 
 
 
