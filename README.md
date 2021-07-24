@@ -14,11 +14,26 @@ com o objetivo de auxiliar os donos de comércios alimenticios em suas vendas di
 
 Tecnologias utilizadas no projeto:
 
-- [AWS Infrastructure] - 
-- [Azure Infrastructure] - 
+- [AWS Infrastructure]
+  * [Virtual Machine] - GNU/Linux Debian 10
+                        3 Zona de Disponibilidade
+                        Apache 2
+                        PHP7 8.0
+                        Wordpress 5.8
+  * [Rede Virtual] (VPC) - Subnetting
+                           Gateway
+                           LoadBalance de Aplicativo
+
+- [Azure Infrastructure] 
+  *Backup no Blob Storage*
 - [Wordpress] - Desenvolver o Website
 - [PHP] - Requirement Wordpress
 - [Apache] - Requirement Wordpress
+
+ElasticSearch
+
+- [Banco de Dados] - Mysql
+
 
 
 ## Plugins
@@ -26,7 +41,7 @@ Tecnologias utilizadas no projeto:
 
 | Plugin | README |
 | ------ | ------ |
-| WooCommerce | [https://github.com/woocommerce/woocommerce][PlDb] |
+| WooCommerce POS | [https://br.wordpress.org/plugins/woocommerce-pos/][PlDb] |
 
 ## Infraestrutura
 
