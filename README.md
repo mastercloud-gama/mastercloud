@@ -14,8 +14,8 @@ com o objetivo de auxiliar os donos de comércios alimenticios em suas vendas di
 
 Tecnologias utilizadas no projeto:
 
-- [Azure Infrastructure] - Instância Debian, Banco MySQL, AzCopy
-- [AWS Infrastructure] - Bucket S3
+- [AWS Infrastructure] - 
+- [Azure Infrastructure] - 
 - [Wordpress] - Desenvolver o Website
 - [PHP] - Requirement Wordpress
 - [Apache] - Requirement Wordpress
